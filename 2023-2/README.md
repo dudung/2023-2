@@ -1,5 +1,5 @@
 # 2023-2
-courses given in 2023-2 semester Feb-Jun 2024
+Courses given during 2023-2 semester (Feb-Jun 2024)
 
 + `FI4002-01` Simulation and Modelling of Physical Systems
 + `FI6004-01` Physical Data Processing
