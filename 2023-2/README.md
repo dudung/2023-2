@@ -2,7 +2,7 @@
 Courses given during 2023-2 semester (Feb-Jun 2024)
 
 + `FI4002-01` Simulation and Modelling of Physical Systems
-+ `FI6004-01` Physical Data Processing
++ `FI6004-01` Physical Data Processing ([info](fi6004-01.md))
 + `NT6094-01` Scientific Journal Writing ([info](nt6094-01.md))
 + `NT8098-01` Technical Writing in International Journal ([info](nt8098-01.md))
 + `SK5221-02` Artificial Intelligence ([info](sk5221-02.md))
