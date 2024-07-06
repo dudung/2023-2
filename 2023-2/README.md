@@ -5,5 +5,5 @@ courses given in 2023-2 semester Feb-Jun 2024
 + `FI6004-01` Physical Data Processing
 + `NT6094-01` Scientific Journal Writing
 + `NT8098-01` Technical Writing in International Journal
-+ SK5221-02
-+ SK6093-01
++ `SK5221-02` Artificial Intelligence
++ `SK6093-01` Independent Research in Computational Science 3
