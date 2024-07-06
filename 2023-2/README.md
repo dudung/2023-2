@@ -7,3 +7,4 @@ courses given in 2023-2 semester Feb-Jun 2024
 + `NT8098-01` Technical Writing in International Journal
 + `SK5221-02` Artificial Intelligence
 + `SK6093-01` Independent Research in Computational Science 3
++ `TF4063-01` Engineering Data Science
